@@ -1,6 +1,6 @@
 # howlplayer #
 
-A howler-based wrapper and functional album/playlist player for Spotify or Deezer albums, SoundCloud playlists or your local sounds.
+A howler-based wrapper and functional player for Spotify or Deezer albums, SoundCloud playlists or your local sounds.
 
 ## Usage ##
 `npm i sntiagomoreno/howlplayer` or `yarn add sntiagomoreno/howlplayer`
