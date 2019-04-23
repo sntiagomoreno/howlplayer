@@ -1,0 +1,17 @@
+{
+    "info": {
+        "name": "Tumbling Dishes Like Old-Man's Wishes",
+        "artist": "Jahzaar",
+        "cover": "/Jahzzar_-_Tumbling_Dishes_Like_Old-Mans_Wishes_-_20140325170047442.jpg",
+        "link": "https://freemusicarchive.org/music/Jahzzar/Tumbling_Dishes_Like_Old-Mans_Wishes/"
+    },
+    "tracks": [{
+         "name": "My Song",
+         "src": "/Jahzzar_-_08_-_So_Far_So_Close.mp3",
+         "artist": "Jahzzar"
+     }, {
+         "name": "My Song",
+         "src": "/Jahzzar_-_08_-_So_Far_So_Close.mp3",
+         "artist": "Jahzzar"
+     }]
+}

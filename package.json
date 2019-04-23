@@ -1,0 +1,32 @@
+{
+  "name": "howlplayer",
+  "version": "1.0.0",
+  "description": "A howler-based web player with Deezer, Spotify and Local support",
+  "main": "dist/main.js",
+  "scripts": {
+    "dev": "parcel ./src/main.js --no-cache",
+     "build": "parcel build ./src/main.js --public-url ./ --no-source-maps --no-content-hash ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sntiagomoreno/howlplayer.git"
+  },
+  "keywords": [
+    "player"
+  ],
+  "author": "Santiago Moreno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sntiagomoreno/howlplayer/issues"
+  },
+  "homepage": "https://github.com/sntiagomoreno/howlplayer#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-jsonp": "^1.0.2",
+    "howler": "^2.1.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-static-files-copy": "^2.0.0"
+  }
+}
