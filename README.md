@@ -60,7 +60,7 @@ let player = new Player({
 ```
 
 ### Local ###
-**Note**: Please check the repo source code to see how your json file should be structured. You can add as many properties you want within `tracks` and `info` properties.
+**Note**: Please [check this](https://github.com/sntiagomoreno/howlplayer/blob/master/dist/tracks.json) to see how your json file should be structured. You can add as many properties you want within `tracks` and `info` properties.
 
 ```
 import Player from 'howlplayer'
