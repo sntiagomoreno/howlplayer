@@ -113,7 +113,13 @@ function myFunction(arg){
 | `render.renderMethod` | Function name to render content. `render.ui` must be `false`            | `'default'` |
 | `showArtist`          | Show artist/author name next to the song's name            | `false`     |
 
+## Dependencies ##
+* Howler
+* Axios
+
 ### TODO ###
 - Options for album, track or playlist in Spotify and Deezer.
 - Improve code structure.
 - Use fetch over axios.
+- Add demo.
+- Add development to docs.
