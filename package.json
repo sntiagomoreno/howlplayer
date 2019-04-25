@@ -1,6 +1,6 @@
 {
   "name": "howlplayer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A howler-based web player with Deezer, Spotify and Local support",
   "main": "dist/main.js",
   "scripts": {
